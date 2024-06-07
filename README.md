@@ -17,4 +17,5 @@
 Данные default админа:
 
 Логин - adminadmin
+
 Пароль - admin_11
