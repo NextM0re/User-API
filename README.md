@@ -16,6 +16,5 @@
 ## Ps
 Данные default админа:
 
-Логин - adminadmin
-
-Пароль - admin_11
++ Логин - adminadmin
++ Пароль - admin_11
